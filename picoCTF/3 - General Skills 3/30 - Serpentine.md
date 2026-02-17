@@ -76,9 +76,10 @@ What would you like to do? (a/b/c) c
 VictorCervantes-picoctf@webshell:~$ 
 
 ```
-picoCTF{7h3_r04d_l355_7r4v3l3d_aa2340b2}
+
+Flag: picoCTF{7h3_r04d_l355_7r4v3l3d_aa2340b2}
 ## Notas adicionales
-- Se imprimio la funcion flag dentro del codigo cuando se hace la comparacion de la opcion seleccionada del menu.
+- Se modificó el código para que pudiera llamar la función 'flag()', ya que dentro del código cuando se hace la selección de la opción "b" no llamaba la función a pesar de que el método si existe.
 
 ## Referencias
 - 

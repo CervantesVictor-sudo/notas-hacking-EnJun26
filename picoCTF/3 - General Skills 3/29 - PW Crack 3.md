@@ -16,9 +16,10 @@ picoCTF{m45h_fl1ng1ng_2b072a90}
 VictorCervantes-picoctf@webshell:~$ 
 
 ```
-picoCTF{m45h_fl1ng1ng_2b072a90}
+
+Flag: picoCTF{m45h_fl1ng1ng_2b072a90}
 ## Notas adicionales
-- 
+- Dentro del archivo .py, vienen las cadenas que podían ser la contraseña, intenté al azar con todas hasta que encontré la correcta.
 
 ## Referencias
 - 
