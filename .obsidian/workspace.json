@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF/1 - General Skills/7 - what's a net cat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "7 - what's a net cat"
             }
           }
         ],
@@ -200,6 +200,7 @@
   },
   "active": "d7a79a8f1a995e07",
   "lastOpenFiles": [
+    "README.md",
     "picoCTF/Tarea 1 - General Skills/39 - binhexa.md",
     "picoCTF/Tarea 1 - General Skills/38 - binary search.md",
     "picoCTF/Tarea 1 - General Skills/36 - blame game.md",
@@ -226,7 +227,6 @@
     "picoCTF/3 - General Skills 3/30 - Serpentine.md",
     "picoCTF/3 - General Skills 3/29 - PW Crack 3.md",
     "picoCTF/Tarea 1 - General Skills",
-    "picoCTF/3 - General Skills 3/28 - PW Crack 2.md",
     "picoCTF/3 - General Skills 3",
     "picoCTF/2 - General Skills 2",
     "Pasted image 20260209075351.png",
