@@ -1,4 +1,4 @@
-# Reto
+# GET aHEAD
 
 ## Descripción
 Find the flag being held on this server to get ahead of the competitionhttp://wily-courier.picoctf.net:53277/
