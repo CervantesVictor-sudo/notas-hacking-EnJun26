@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web/picoCTF Web 4/16 - Most Cookies.md",
+                "file": "picoCTF/Forensic/picoCTF - Forensic 1/5 - What Lies Within.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16 - Most Cookies"
+              "title": "5 - What Lies Within"
             }
           },
           {
@@ -199,9 +199,17 @@
   },
   "active": "a81d330610bcf6a2",
   "lastOpenFiles": [
+    "picoCTF/Forensic/picoCTF - Forensic 1/4- extensions.md",
+    "picoCTF/Forensic/picoCTF - Forensic 1/5 - What Lies Within.md",
+    "picoCTF/Plantilla.md",
+    "picoCTF/Forensic/picoCTF - Forensic 1/3 - shark on wire 1.md",
+    "picoCTF/Forensic/picoCTF - Forensic 1/2 - So Meta.md",
+    "picoCTF/Forensic/picoCTF - Forensic 1/1 - Glory of the Garden.md",
+    "picoCTF/Web/picoCTF Web 4/16 - Most Cookies.md",
+    "picoCTF/Forensic/picoCTF - Forensic 1",
+    "picoCTF/Forensic",
     "picoCTF/Web/picoCTF Web 4/15 - Trickster.md",
     "picoCTF/Web/picoCTF Web 4/14 - SOAP.md",
-    "picoCTF/Web/picoCTF Web 4/16 - Most Cookies.md",
     "picoCTF/Web/picoCTF Web 4/13 - MatchTheRegex.md",
     "picoCTF/Web/Tarea 2 - Web/26 - WebDecode.md",
     "picoCTF/Web/Tarea 2 - Web/25 - Unminify.md",
@@ -213,18 +221,12 @@
     "picoCTF/Web/Tarea 2 - Web/19 - IntroToBurp.md",
     "picoCTF/Web/Tarea 2 - Web/18 - Inspect HTML.md",
     "picoCTF/Web/Tarea 2 - Web/17 - Includes.md",
-    "picoCTF/Plantilla.md",
     "picoCTF/General Skills/Tarea 1 - General Skills/32 - chrono.md",
     "picoCTF/General Skills/Tarea 1 - General Skills/31 - Permissions.md",
     "picoCTF/General Skills/Tarea 1 - General Skills/33 - special.md",
     "picoCTF/Web/picoCTF Web 3/11 - More SQLi.md",
     "picoCTF/Web/picoCTF Web 3/12 - JaWT Scratchpad.md",
     "picoCTF/Web/picoCTF Web 3/10 - Irish-Name-Repo 1.md",
-    "picoCTF/Web/picoCTF Web 2/9 - Scavenger Hunt.md",
-    "picoCTF/Web/picoCTF Web 2/8 - Cookies.md",
-    "picoCTF/Web/picoCTF Web 2/7 - GET aHEAD.md",
-    "picoCTF/Web/picoCTF Web 1/6 - Client-side-again.md",
-    "picoCTF/Web/picoCTF Web 1/5 - picobrowser.md",
     "picoCTF/Tarea 2 - Web",
     "Sin nombre",
     "picoCTF/picoCTF Web 4",
@@ -234,9 +236,7 @@
     "picoCTF/picoCTF Web 1",
     "picoCTF/Tarea 1 - General Skills",
     "picoCTF/3 - General Skills 3",
-    "picoCTF/2 - General Skills 2",
     "Pasted image 20260209075351.png",
-    "Pasted image 20260209075346.png",
-    "picoCTF/1 - General Skills"
+    "Pasted image 20260209075346.png"
   ]
 }
