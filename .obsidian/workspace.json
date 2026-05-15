@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/5 - Reversing/picoCTF Reversing - Parte 3/14 - asm3.md",
+                "file": "picoCTF/5 - Reversing/picoCTF Reversing - Parte 2/6 - Safe-Opener 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14 - asm3"
+              "title": "6 - Safe-Opener 2"
             }
           },
           {
@@ -199,8 +199,9 @@
   },
   "active": "a81d330610bcf6a2",
   "lastOpenFiles": [
-    "picoCTF/5 - Reversing/picoCTF Reversing - Parte 3/13 - asm2.md",
+    "picoCTF/4 - Crypto/Tarea 4 - Crypto/21 - EVEN-RSA-CAN-BE-BROKEN???.md",
     "picoCTF/5 - Reversing/picoCTF Reversing - Parte 3/14 - asm3.md",
+    "picoCTF/5 - Reversing/picoCTF Reversing - Parte 3/13 - asm2.md",
     "picoCTF/5 - Reversing/picoCTF Reversing - Parte 3/12 - asm1.md",
     "picoCTF/5 - Reversing/picoCTF Reversing - Parte 2/11 - Picker IV.md",
     "picoCTF/5 - Reversing/picoCTF Reversing - Parte 3/6 - Safe Opener 2.md",
@@ -211,7 +212,7 @@
     "picoCTF/5 - Reversing/picoCTF Reversing - Parte 2/10 - Picker III.md",
     "picoCTF/5 - Reversing/picoCTF Reversing - Parte 2/9 - Picker II.md",
     "picoCTF/5 - Reversing/picoCTF Reversing - Parte 2/8 - Picker I.md",
-    "picoCTF/5 - Reversing/picoCTF Reversing - Parte 2/6 - Safe Opener 2.md",
+    "picoCTF/5 - Reversing/picoCTF Reversing - Parte 2/6 - Safe-Opener 2.md",
     "picoCTF/5 - Reversing/picoCTF Reversing - Parte 2/7 - timer.md",
     "picoCTF/5 - Reversing/picoCTF Reversing - Parte 1/5 - vault-door-5.md",
     "picoCTF/5 - Reversing/picoCTF Reversing - Parte 2",
@@ -227,7 +228,6 @@
     "picoCTF/4 - Crypto/Tarea 4 - Crypto/25 - substitution0.md",
     "picoCTF/4 - Crypto/Tarea 4 - Crypto/24 - rail-fence.md",
     "picoCTF/4 - Crypto/Tarea 4 - Crypto/23 - morse-code.md",
-    "picoCTF/4 - Crypto/Tarea 4 - Crypto/22 - hashcrack.md",
     "picoCTF/4 - Crypto/Tarea 4 - Crypto",
     "picoCTF/4 - Crypto/picoCTF Crypto - Parte 4",
     "picoCTF/4 - Crypto/picoCTF Crypto - Parte 3",
