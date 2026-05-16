@@ -5,9 +5,15 @@ There's something in the [building](https://challenge-files.picoctf.net/c_fickl
 
 ## Solución
 
+Usando una página para decodificar mensajes en imagenes 
 
+https://stylesuxx.github.io/steganography/
+
+
+FLAG:
+picoCTF{h1d1ng_1n_th3_b1t5}
 ## Notas adicionales
-- 
+- Vemos un poco lo que es (Stheganography) y los mensajes ocultos en archivos.
 
 ## Referencias
-- 
+- https://en.wikipedia.org/wiki/Steganography
